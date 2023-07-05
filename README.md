@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtssoft
-- 👀 I’m a Computer Engineer and interested in Software Development. I have been worked as software developer since 2015.
+- 👀 I’m a Computer Engineer and interested in Software Development. I have been worked as full stack software developer since 2015.
 - I started my career as a full stack developer with Java(Hibernate, Spring, Dropwizard etc.) and JavaScript(HTML, Kendoui, angular etc.) and
 - since 2018 I have been working as a full stack developer with .Net, Angular, TypeScript and JavaScript.
 - In summary, whole of my career I have been worked on OOP and Enterprise Software Development.
